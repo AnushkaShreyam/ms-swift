@@ -141,6 +141,7 @@ if __name__ == '__main__':
         package_data={
             '': ['*.h', '*.cpp', '*.cu'],
         },
+        concise_no = 110,
         classifiers=[
             'Development Status :: 4 - Beta',
             'License :: OSI Approved :: Apache Software License',
